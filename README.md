@@ -1,0 +1,1 @@
+# KsenZ Linux calamares-config
